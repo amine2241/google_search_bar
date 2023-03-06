@@ -1,4 +1,4 @@
-img{
+img {
     width: 272px;
     height: 92px;
     display: block;
@@ -6,21 +6,24 @@ img{
     margin-right: auto;
     margin-top: 11%;
 }
+
 form {
     width: 300px;
     margin-left: 30.3%;
-    margin-top: 5%;
-  }
-#search_bar{
-    width:565px;
-    height:40px;
-    border-radius: 30px;
-    border: 1px solid  rgb(175, 170, 170);
-    background: url(icons8-chercher-24.png) no-repeat scroll 7px 7px;
-    outline:none;
-    padding-left:35px ;
+    margin-top: 3%;
 }
-#search_button{
+
+#search_bar {
+    width: 561px;
+    height: 40px;
+    border-radius: 30px;
+    border: 1px solid rgb(175, 170, 170);
+    background: url(icons8-chercher-24.png) no-repeat scroll 7px 7px;
+    outline: none;
+    padding-left: 35px;
+}
+
+#search_button {
     display: block;
     padding: 10px 15px;
     margin-top: 35px;
@@ -30,10 +33,10 @@ form {
     transform: translateX(-50%);
     border: 1px solid rgb(175, 170, 170);
     border-radius: 5px;
-    cursor:pointer;
+    cursor: pointer;
 }
 
-input::placeholder{
+input::placeholder {
     font-size: 15px;
-    
+
 }
