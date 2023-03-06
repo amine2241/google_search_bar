@@ -1,0 +1,124 @@
+#first_row .left_label label {
+    font-weight: 500;
+    font-size: 16px;
+    color: black;
+    font-family: arial, sans-serif;
+    font-style: normal;
+}
+
+#first_row .right_label label {
+    font-size: 13px;
+    color: grey;
+    font-weight: bold;
+    margin-left: 200px;
+    height: 30px;
+    vertical-align: middle;
+    font-weight: 700;
+    font-style: normal;
+    margin-left: 69%;
+}
+
+#second_elem {
+    padding-top: 18px;
+}
+
+form {
+    margin-left: 38px;
+    margin-top: 10px;
+}
+
+#second_elem.input {
+    margin-left: 40px;
+}
+
+input {
+    width: 18cm;
+    height: 27px;
+    margin-left: 45px;
+    outline: none;
+    border: 1px solid rgb(175, 170, 170);
+}
+
+body {
+    font-family: 'Cairo', sans-serif;
+}
+
+span {
+    font-size: 11px;
+    font-family: monospace;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+
+
+.right_label label {
+    padding-left: 10px;
+    font-size: 11px;
+    font-weight: 400;
+    height: 30px;
+    font-family: arial, sans-serif;
+    color: #555;
+}
+
+#fifth_row .right_label {
+    font-size: 18px;
+    line-height: 0.8;
+}
+
+#fifth_row .right_label span {
+    padding-left: 10px;
+}
+
+td {
+    padding-top: 10px;
+}
+
+label {
+    font-size: 13px;
+    font-weight: 400;
+    font-family: arial, sans-serif;
+    line-height: 13px;
+    font-style: normal;
+    vertical-align: middle;
+    color: #222;
+
+}
+
+.big_heading {
+    margin-top: 40px;
+    font-family: arial, sans-serif;
+    color: #d93025;
+    font-size: 20px;
+    margin-left: 30px;
+    font-style: normal;
+    font-weight: 400;
+    display: block;
+    margin-bottom: 30px;
+
+}
+
+.google_logo {
+    content: url(https://www.gstatic.com/images/branding/googlelogo/svg/googlelogo_clr_74x24px.svg
+);
+    margin-left: 10px;
+    margin-top: 7px;
+
+}
+
+.search_button {
+    background-color: #4d90fe;
+    color: white;
+    font-style: normal;
+    font-stretch: 100%;
+    font-size: 11px;
+    font-weight: 700;
+    height: 30px;
+    text-align: center;
+    width: 109px;
+    border-top-width: 0.8px;
+    border-color: #4d90fe;
+    border-radius: 2px;
+    margin-left: 64.5%;
+}
